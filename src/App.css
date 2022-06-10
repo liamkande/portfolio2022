@@ -22,6 +22,6 @@ body {
 
 @media (max-width: 439px) {
     body {
-        background-color: rgba(48, 88, 86, 1.00);
+        background-image: linear-gradient(180deg, rgb(0, 249, 200) 0%, rgba(48, 88, 86, 1.00) 100.00%);
     }
 }
