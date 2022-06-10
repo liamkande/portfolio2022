@@ -22,7 +22,6 @@ body {
 
 @media (max-width: 439px) {
     body {
-        background-image: linear-gradient(180deg, rgba(255, 255, 255, 1.00) 0%, rgba(48, 88, 86, 1.00) 100.00%);
-        background-image: -webkit-linear-gradient(270deg, rgba(255, 255, 255, 1.00) 0%, rgba(48, 88, 86, 1.00) 100%);
+        background-color: rgba(48, 88, 86, 1.00);
     }
 }
