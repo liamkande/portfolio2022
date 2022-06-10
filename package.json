@@ -38,5 +38,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "my portfolio 2022",
+  "main": "index.js",
+  "repository": "https://github.com/liamkande/portfolio2022.git",
+  "author": "Liam Ansoumane Kande",
+  "homepage": ".",
+  "license": "MIT"
 }
