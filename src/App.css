@@ -6,12 +6,6 @@ body {
     sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    /*background: linear-gradient(*/
-    /*        to left,*/
-    /*        rgba(7, 27, 82, 1) 0%,*/
-    /*        rgba(0, 128, 128, 1) 100%*/
-    /*);*/
-
     background-size: cover;
     background-attachment: fixed;
     background-image: url('https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/bkgd.jpeg?alt=media&token=cc919a4f-b232-4fea-9a5c-932499516ab8');
@@ -24,4 +18,10 @@ body {
     font-size: 76px;
     color: #0ccac4;
     font-family: 'Bigelow Rules';
+}
+
+@media (max-width: 439px) {
+    body {
+        background-image: linear-gradient(180deg, rgba(255, 255, 255, 1.00) 0%, rgba(48, 88, 86, 1.00) 100.00%);
+    }
 }
