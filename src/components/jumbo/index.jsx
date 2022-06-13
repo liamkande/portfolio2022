@@ -33,7 +33,7 @@ const Jumbo = () => {
         }}
       >
         <a
-          href="liamkande@icloud.com"
+          href="mailto:liamkande@icloud.com?"
           style={{
             fontSize: 24,
             textDecoration: 'none',

@@ -4,7 +4,7 @@
     <list default="true" id="4d12a39c-e95b-40ba-a53c-d412e15c61de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/jumbo/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbo/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,8 @@
       <workItem from="1654887278626" duration="995000" />
       <workItem from="1654888336900" duration="6578000" />
       <workItem from="1655085213042" duration="1327000" />
-      <workItem from="1655089061337" duration="157000" />
+      <workItem from="1655089061337" duration="335000" />
+      <workItem from="1655093239959" duration="930000" />
     </task>
     <servers />
   </component>
