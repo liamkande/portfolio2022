@@ -10,6 +10,8 @@ const App = () => {
         <h1 style={{ margin: 0 }}>Check Out My Apps :</h1>
       </div>
       <Projects />
+      <br />
+      <br />
     </>
   )
 }
