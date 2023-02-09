@@ -17,7 +17,7 @@ const Jumbo = () => {
             {' '}
             React | React Native | Redux | GraphQL | JavaScript | React Hooks |
             NodeJS | TypeScript | RESTful API | SASS | Flexbox | CSS3 | HTML5 |
-            ES6 | ES7...
+            ES6...
           </span>
         </h3>
       </article>
@@ -52,7 +52,7 @@ const Jumbo = () => {
           </div>
         </a>
         <a
-          href="tel:646-717-0370"
+          href="tel:424-303-3817"
           style={{
             fontSize: 24,
             textDecoration: 'none',
@@ -67,7 +67,7 @@ const Jumbo = () => {
             }}
           >
             <FaPhoneAlt size={33} />
-            <span style={{ padding: 8 }}> 646-717-0370</span>
+            <span style={{ padding: 8 }}> 424-303-3817</span>
           </div>
         </a>
         <div style={{ margin: 12 }}>
@@ -93,7 +93,7 @@ const Jumbo = () => {
         className="custom-button"
         onClick={() =>
           window.open(
-            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam_Kande%CC%81_Resume1111(2022).pdf?alt=media&token=9728c63f-3660-408b-87bb-148ade4efa50'
+            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam%20Kande%20Resume1111%20(2023).pdf?alt=media&token=ecde196b-862b-4090-8e9a-05b229a076c6'
           )
         }
       >
