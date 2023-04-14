@@ -93,7 +93,7 @@ const Jumbo = () => {
         className="custom-button"
         onClick={() =>
           window.open(
-            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/My%20Resume1111(2023).pdf?alt=media&token=051c7db1-292e-4f52-ac8c-b12c44aeda37'
+            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamsResume_20231111.pdf?alt=media&token=2dbfee61-bf32-4fb7-ad1a-b786d689a6a5'
           )
         }
       >
