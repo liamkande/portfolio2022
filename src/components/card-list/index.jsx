@@ -13,14 +13,14 @@ const CardList = ({ products }) => (
             window.open(
               `${product?.previewLink}`,
               'popup',
-              'width=920,height=920'
+              'width=1080,height=1080'
             )
           }
           viewCode={() =>
             window.open(
               `${product?.downloadLink}`,
               'popup',
-              'width=920,height=920'
+              'width=1080,height=1080'
             )
           }
         />
