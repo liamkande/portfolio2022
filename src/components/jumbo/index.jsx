@@ -11,13 +11,16 @@ const Jumbo = () => {
           className="card-image"
         />
         <h3 style={{ margin: 20 }}>
-          I'm a software engineer with over 7 years of experience in mobile and
-          web apps development offering advanced knowledge of :
+          I’m a results-driven software engineer with over 8 years of experience
+          in mobile and web app development. Committed to delivering
+          high-quality solutions by leveraging cutting-edge technologies with
+          strong problem-solving skills and a collaborative team player mindset.
+          Advanced expertise in:
           <span style={{ color: '#4879B2' }}>
             {' '}
-            React | React Native | Redux | GraphQL | JavaScript | React Hooks |
-            NodeJS | TypeScript | RESTful API | SASS | Flexbox | CSS3 | HTML5 |
-            ES6...
+            React | React Native | Redux | GraphQL | JavaScript | Node | React
+            Hooks | TypeScript | TensorflowJS | RESTful API | Flexbox | Emotion
+            | CSS3 | HTML5 | ES6/7+ | Machine Learning...
           </span>
         </h3>
       </article>
@@ -93,7 +96,7 @@ const Jumbo = () => {
         className="custom-button"
         onClick={() =>
           window.open(
-            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamsResume_20231111.pdf?alt=media&token=2dbfee61-bf32-4fb7-ad1a-b786d689a6a5'
+            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/liamKande2023.pdf?alt=media&token=e4972f11-4c1a-46a6-b1e1-e41e04532416'
           )
         }
       >
