@@ -96,7 +96,7 @@ const Jumbo = () => {
         className="custom-button"
         onClick={() =>
           window.open(
-            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/liamKande2023.pdf?alt=media&token=7f5e9ceb-6cc1-498a-b15d-9f1ff70299e7'
+            'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/liamKande2023.pdf?alt=media&token=1ce9d9a2-1f23-477f-8d37-9820b933050e&_gl=1*1b7ek35*_ga*Nzc4NjUyOTguMTY4MTkyNDgzNQ..*_ga_CW55HF8NVT*MTY4NjE2ODI4NC40LjEuMTY4NjE2ODMxMy4wLjAuMA..'
           )
         }
       >
