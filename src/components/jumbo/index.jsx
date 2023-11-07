@@ -1,6 +1,7 @@
 import './jumbo.styles.css'
 import {FaEnvelope, FaGithub, FaLinkedin, FaPhoneAlt} from 'react-icons/fa'
 
+const resumeUrl = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamResume2024.pdf?alt=media&token=62fdd5bd-0731-4938-a501-22ccd3053a30&_gl=1*e3t3gs*_ga*OTM1MzkzNjE1LjE2OTkzMDA3NzY.*_ga_CW55HF8NVT*MTY5OTM0NTkzMC42LjEuMTY5OTM1MjM2Mi4yMS4wLjA.'
 const Jumbo = () => {
     return (
         <article className="jumbo-container">
@@ -95,9 +96,7 @@ const Jumbo = () => {
             <button
                 className="custom-button"
                 onClick={() =>
-                    window.open(
-                        'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamKande(2023).pdf?alt=media&token=684ae5af-20ce-4721-be45-c1bf34be8506&_gl=1*1uy5wdt*_ga*Nzc4NjUyOTguMTY4MTkyNDgzNQ..*_ga_CW55HF8NVT*MTY4NjUxNDYzNS42LjEuMTY4NjUxNTg1Ny4wLjAuMA..'
-                    )
+                    window.open(resumeUrl)
                 }
             >
                 View Resume
