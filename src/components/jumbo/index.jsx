@@ -1,22 +1,58 @@
 import './jumbo.styles.css'
 import {FaEnvelope, FaGithub, FaLinkedin, FaPhoneAlt} from 'react-icons/fa'
 
-const resumeUrl = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamResume2024.pdf?alt=media&token=62fdd5bd-0731-4938-a501-22ccd3053a30&_gl=1*e3t3gs*_ga*OTM1MzkzNjE1LjE2OTkzMDA3NzY.*_ga_CW55HF8NVT*MTY5OTM0NTkzMC42LjEuMTY5OTM1MjM2Mi4yMS4wLjA.'
+const resumeUrl = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamKandeResume-11-11-2023-1.pdf?alt=media&token=a7b92897-3a43-4342-97e4-c541c68fd1ec'
+const mitLogo = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/mit-logo.png?alt=media&token=a99ae95a-e31e-4e05-836d-8047050ef97f'
+const metaLogo = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/meta-logo.png?alt=media&token=cf62cc84-543f-4d83-8dd3-1618220f3d32'
+const mitDegree = 'https://certificates.emeritus.org/366dabb4-7b28-4d84-a2b7-278ac3560975'
+const metaDegree = 'https://coursera.org/share/1449c237710541d5f0586a391166291a'
 const Jumbo = () => {
     return (
         <article className="jumbo-container">
             <article>
-                <img
-                    alt={`profile`}
-                    src="https://avatars.githubusercontent.com/u/23286067?v=4"
-                    className="card-image"
-                />
+                <span style={{
+                    display: 'flex',
+                    flexDirection: 'row',
+                    flexWrap: 'wrap',
+                    alignItems: 'center',
+                    justifyContent: 'space-around',
+                }}>
+                     <a
+                         href={metaDegree}
+                         target="_blank"
+                         rel="noreferrer"
+                     >
+                          <img
+                              alt={`Meta Degree`}
+                              src={metaLogo}
+                              style={{width: 100}}
+                          />
+                    </a>
+                    <img
+                        alt={`profile`}
+                        src="https://avatars.githubusercontent.com/u/23286067?v=4"
+                        className="avatar"
+                    />
+                     <a
+                         href={mitDegree}
+                         target="_blank"
+                         rel="noreferrer"
+                     >
+                      <img
+                          alt={`MIT Degree`}
+                          src={mitLogo}
+                          style={{width: 60}}
+                      />
+                </a>
+                </span>
+
                 <h3 style={{margin: 20}}>
-                    I’m a results-driven software engineer with over 8 years of experience
-                    in mobile and web app development. Committed to delivering
-                    high-quality solutions by leveraging cutting-edge technologies with
-                    strong problem-solving skills and a collaborative team player mindset.
-                    Advanced expertise in:
+                    I’m a results-driven software engineer with over 8 years of proven expertise in
+                    developing cutting-edge mobile and web applications. I’m also a MIT graduate
+                    with a Post-graduate Degree in Professional Coding: Full Stack Development,
+                    achieving a remarkable 98% final score and a 4.0 GPA. Specialized in leveraging
+                    advanced technologies, including:
+
                     <span style={{color: '#4879B2'}}>
             {' '}
                         React | React Native | Redux | GraphQL | JavaScript | Node | React
