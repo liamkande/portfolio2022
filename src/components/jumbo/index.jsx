@@ -25,7 +25,7 @@ const Jumbo = () => {
                           <img
                               alt={`Meta Degree`}
                               src={metaLogo}
-                              style={{width: 100}}
+                              style={{width: 88}}
                           />
                     </a>
                     <img

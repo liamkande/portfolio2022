@@ -35,8 +35,13 @@
 }
 
 .avatar {
-    width: 200px;
-    height: 200px;
+    width: 100px;
     border-radius: 50%;
     align-self: center;
+}
+
+@media (min-width: 500px) {
+    .avatar {
+        width: 200px;
+    }
 }
