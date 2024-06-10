@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d12a39c-e95b-40ba-a53c-d412e15c61de" name="Changes" comment="updated link update">
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+    <list default="true" id="4d12a39c-e95b-40ba-a53c-d412e15c61de" name="Changes" comment="updated link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-list/card-list.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-list.styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/jumbo/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbo/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "liamkande"
+  }
+}]]></component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -28,6 +35,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/liamkande/portfolio2022.git",
+    "accountId": "3cec9f8a-be34-429a-8da5-5e8b38be238b"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -68,6 +81,13 @@
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/config" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -110,7 +130,12 @@
       <workItem from="1709067468428" duration="22000" />
       <workItem from="1709067494796" duration="458000" />
       <workItem from="1709069508982" duration="624000" />
-      <workItem from="1714092235966" duration="21000" />
+      <workItem from="1714092235966" duration="868000" />
+      <workItem from="1715012790561" duration="947000" />
+      <workItem from="1715013755576" duration="2436000" />
+      <workItem from="1715300946124" duration="2000" />
+      <workItem from="1715303375095" duration="1000" />
+      <workItem from="1718001357367" duration="136000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -152,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705571116744</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated link">
+      <option name="closed" value="true" />
+      <created>1714092468614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714092468614</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +210,8 @@
     <MESSAGE value="added styling for mobile" />
     <MESSAGE value="updated resume added" />
     <MESSAGE value="updated link update" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated link update" />
+    <MESSAGE value="updated link" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated link" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
