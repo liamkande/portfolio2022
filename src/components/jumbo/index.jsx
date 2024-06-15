@@ -1,7 +1,7 @@
 import './jumbo.styles.css'
 import {FaEnvelope, FaGithub, FaLinkedin, FaPhoneAlt} from 'react-icons/fa'
 
-const resumeUrl = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam-Kande-Resume-06-24.pdf?alt=media&token=bcd3e59c-8a3c-4b53-9bcc-0e7496c9b661'
+const resumeUrl = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam-Kande-resume-06-11-24.pdf?alt=media&token=c9af113c-a1c9-4717-a346-098779cd05cf'
 const mitLogo = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/mit-logo.png?alt=media&token=a99ae95a-e31e-4e05-836d-8047050ef97f'
 const metaLogo = 'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/meta-logo.png?alt=media&token=cf62cc84-543f-4d83-8dd3-1618220f3d32'
 const mitDegree = 'https://certificates.emeritus.org/366dabb4-7b28-4d84-a2b7-278ac3560975'
