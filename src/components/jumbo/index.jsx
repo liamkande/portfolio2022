@@ -47,7 +47,7 @@ const Jumbo = () => {
                 </span>
 
                 <h3 style={{margin: 20}}>
-                    I’m a results-driven software engineer with over 8 years of proven expertise in
+                    I’m a results-driven software engineer with over 9 years of proven expertise in
                     developing cutting-edge mobile and web applications. I’m also a MIT graduate
                     with a Post-graduate Degree in Professional Coding: Full Stack Development,
                     achieving a remarkable 98% final score and a 4.0 GPA. Specialized in leveraging
@@ -57,7 +57,7 @@ const Jumbo = () => {
             {' '}
                         React | React Native | Redux | GraphQL | JavaScript | Node | React
             Hooks | TypeScript | TensorflowJS | RESTful API | Flexbox | Emotion
-            | CSS3 | HTML5 | ES6/7+ | Machine Learning...
+            | CSS3 | HTML5 | ES6/7+ | Machine Learning | LangChain | OpenAI...
           </span>
                 </h3>
             </article>
