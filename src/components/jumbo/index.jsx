@@ -1,91 +1,91 @@
 import './jumbo.styles.css'
-import { FaGithub, FaLinkedin } from 'react-icons/fa'
+import {FaGithub, FaLinkedin} from 'react-icons/fa'
 
 const resumeUrl =
-  'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamKandeResume1024.pdf?alt=media&token=071d22b7-6292-4e1c-a9b1-e6aec1174c6d'
+    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamKandeResume1024.pdf?alt=media&token=53c63d3e-29c0-4a2d-9699-814d540e4b72'
 const mitLogo =
-  'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/mit-logo.png?alt=media&token=a99ae95a-e31e-4e05-836d-8047050ef97f'
+    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/mit-logo.png?alt=media&token=a99ae95a-e31e-4e05-836d-8047050ef97f'
 const metaLogo =
-  'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/meta-logo.png?alt=media&token=cf62cc84-543f-4d83-8dd3-1618220f3d32'
+    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/meta-logo.png?alt=media&token=cf62cc84-543f-4d83-8dd3-1618220f3d32'
 const mitDegree =
-  'https://certificates.emeritus.org/366dabb4-7b28-4d84-a2b7-278ac3560975'
+    'https://certificates.emeritus.org/366dabb4-7b28-4d84-a2b7-278ac3560975'
 const metaDegree = 'https://coursera.org/share/1449c237710541d5f0586a391166291a'
 const Jumbo = () => {
-  return (
-    <article className="jumbo-container">
-      <article>
+    return (
+        <article className="jumbo-container">
+            <article>
         <span
-          style={{
-            display: 'flex',
-            flexDirection: 'row',
-            flexWrap: 'wrap',
-            alignItems: 'center',
-            justifyContent: 'space-around',
-          }}
+            style={{
+                display: 'flex',
+                flexDirection: 'row',
+                flexWrap: 'wrap',
+                alignItems: 'center',
+                justifyContent: 'space-around',
+            }}
         >
           <a href={metaDegree} target="_blank" rel="noreferrer">
-            <img alt={`Meta Degree`} src={metaLogo} style={{ width: 88 }} />
+            <img alt={`Meta Degree`} src={metaLogo} style={{width: 88}}/>
           </a>
           <img
-            alt={`profile`}
-            src="https://avatars.githubusercontent.com/u/23286067?v=4"
-            className="avatar"
+              alt={`profile`}
+              src="https://avatars.githubusercontent.com/u/23286067?v=4"
+              className="avatar"
           />
           <a href={mitDegree} target="_blank" rel="noreferrer">
-            <img alt={`MIT Degree`} src={mitLogo} style={{ width: 60 }} />
+            <img alt={`MIT Degree`} src={mitLogo} style={{width: 60}}/>
           </a>
         </span>
 
-        <h3 style={{ margin: 20 }}>
-          I’m a results-driven software engineer with over 9 years of proven
-          expertise in developing cutting-edge mobile and web applications. I’m
-          also a MIT graduate with a Post-graduate Degree in Professional
-          Coding: Full Stack Development, achieving a remarkable 98% final score
-          and a 4.0 GPA. Specialized in leveraging advanced technologies,
-          including:
-          <span style={{ color: '#4879B2' }}>
+                <h3 style={{margin: 20}}>
+                    I’m a results-driven software engineer with over 9 years of proven
+                    expertise in developing cutting-edge mobile and web applications. I’m
+                    also a MIT graduate with a Post-graduate Degree in Professional
+                    Coding: Full Stack Development, achieving a remarkable 98% final score
+                    and a 4.0 GPA. Specialized in leveraging advanced technologies,
+                    including:
+                    <span style={{color: '#4879B2'}}>
             {' '}
-            React | React Native | Redux | GraphQL | JavaScript | Node | React
+                        React | React Native | Redux | GraphQL | JavaScript | Node | React
             Hooks | TypeScript | TensorflowJS | RESTful API | Flexbox | Emotion
             | CSS3 | HTML5 | ES6/7+ | Machine Learning | LangChain | OpenAI...
           </span>
-        </h3>
-      </article>
+                </h3>
+            </article>
 
-      <address
-        style={{
-          margin: 12,
-          display: 'flex',
-          flexDirection: 'row',
-          flexWrap: 'wrap',
-          alignItems: 'center',
-          justifyContent: 'center',
-        }}
-      >
-        <div style={{ margin: 12 }}>
-          <a
-            href="https://www.linkedin.com/in/liamkande/"
-            target="_blank"
-            rel="noreferrer"
-            style={{ marginRight: 33, color: '#312F2F' }}
-          >
-            <FaLinkedin size={60} />
-          </a>
-          <a
-            href="https://github.com/liamkande"
-            target="_blank"
-            rel="noreferrer"
-            style={{ color: '#312F2F' }}
-          >
-            <FaGithub size={60} />
-          </a>
-        </div>
-      </address>
-      <button className="custom-button" onClick={() => window.open(resumeUrl)}>
-        View Resume
-      </button>
-    </article>
-  )
+            <address
+                style={{
+                    margin: 12,
+                    display: 'flex',
+                    flexDirection: 'row',
+                    flexWrap: 'wrap',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                }}
+            >
+                <div style={{margin: 12}}>
+                    <a
+                        href="https://www.linkedin.com/in/liamkande/"
+                        target="_blank"
+                        rel="noreferrer"
+                        style={{marginRight: 33, color: '#312F2F'}}
+                    >
+                        <FaLinkedin size={60}/>
+                    </a>
+                    <a
+                        href="https://github.com/liamkande"
+                        target="_blank"
+                        rel="noreferrer"
+                        style={{color: '#312F2F'}}
+                    >
+                        <FaGithub size={60}/>
+                    </a>
+                </div>
+            </address>
+            <button className="custom-button" onClick={() => window.open(resumeUrl)}>
+                View Resume
+            </button>
+        </article>
+    )
 }
 
 export default Jumbo
