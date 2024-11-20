@@ -51,7 +51,7 @@ const Jumbo = () => {
         </div>
         <h3 style={{ margin: 20 }}>
           I’m a results-driven software engineer with over 9 years of experience
-          in developing and building innovative mobile and web applications. I'm
+          in designing and building innovative mobile and web applications. I'm
           also an MIT graduate with a Postgraduate Professional Certificate in
           Coding: Full Stack Development, I specialize in leveraging advanced
           technologies, including:
