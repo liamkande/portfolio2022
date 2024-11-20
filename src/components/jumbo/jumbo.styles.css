@@ -12,13 +12,19 @@
 .custom-button {
     width: auto;
     height: 60px;
-    padding: 0 35px 0 35px;
+    padding: 0 35px;
     font-size: 28px;
     background-color: #4879B2;
     color: white;
     border: none;
     cursor: pointer;
     border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.custom-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
 }
 
 .small-button {
@@ -45,3 +51,22 @@
         width: 200px;
     }
 }
+
+.title {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 3px;
+    color: #6b6b70;
+    align-self: center;
+}
+
+.spirit-sync-link {
+    color: #2a70c8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.spirit-sync-link:hover {
+    font-size: 18px;
+}
+
