@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d12a39c-e95b-40ba-a53c-d412e15c61de" name="Changes" comment="updated lock">
+    <list default="true" id="4d12a39c-e95b-40ba-a53c-d412e15c61de" name="Changes" comment="updated bio">
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/jumbo/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbo/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +147,7 @@
       <workItem from="1728973137385" duration="3048000" />
       <workItem from="1729406514904" duration="158000" />
       <workItem from="1732089837372" duration="6091000" />
-      <workItem from="1732096104671" duration="494000" />
+      <workItem from="1732096104671" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -256,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732095894504</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="updated bio">
+      <option name="closed" value="true" />
+      <created>1732096662288</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732096662288</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,12 +288,12 @@
     <MESSAGE value="updated link update" />
     <MESSAGE value="updated link" />
     <MESSAGE value="updated resume" />
-    <MESSAGE value="updated bio" />
     <MESSAGE value="removed contact info and updated resume" />
     <MESSAGE value="updated resume link" />
     <MESSAGE value="added title and restyled Jumbo" />
     <MESSAGE value="updated lock" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated lock" />
+    <MESSAGE value="updated bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated bio" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

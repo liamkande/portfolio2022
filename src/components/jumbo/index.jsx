@@ -53,8 +53,8 @@ const Jumbo = () => {
           I’m a results-driven software engineer with over 9 years of experience
           in designing and building innovative mobile and web applications. I'm
           also an MIT graduate with a Professional Certificate in Coding: Full
-          Stack Development with MERN, I specialize in leveraging advanced
-          technologies, including:
+          Stack Development, I specialize in leveraging advanced technologies,
+          including:
           <span style={{ color: '#4879B2' }}>
             {' '}
             React | React Native | Redux | GraphQL | JavaScript | Node | React
