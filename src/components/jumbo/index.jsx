@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa'
 
 const links = {
   resumeUrl:
-    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/LiamKandeResume1024.pdf?alt=media&token=53c63d3e-29c0-4a2d-9699-814d540e4b72',
+    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam-Kande-Resume-2025.pdf?alt=media&token=ec1e19a6-8d94-4dd9-85dc-7b2e9710c89d',
   mitLogo:
     'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/mit-logo.png?alt=media&token=a99ae95a-e31e-4e05-836d-8047050ef97f',
   metaLogo:
@@ -51,10 +51,10 @@ const Jumbo = () => {
         </div>
         <h3 style={{ margin: 20 }}>
           I’m a results-driven software engineer with over 9 years of experience
-          in designing and building innovative mobile and web applications. I'm
-          also an MIT graduate with a Professional Certificate in Coding: Full
-          Stack Development, I specialize in leveraging advanced technologies,
-          including:
+          in developing and building innovative mobile and web applications. I'm
+          also an MIT graduate with a Postgraduate Professional Certificate in
+          Coding: Full Stack Development, I specialize in leveraging advanced
+          technologies, including:
           <span style={{ color: '#4879B2' }}>
             {' '}
             React | React Native | Redux | GraphQL | JavaScript | Node | React
