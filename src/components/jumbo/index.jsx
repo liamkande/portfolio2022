@@ -50,12 +50,11 @@ const Jumbo = () => {
           </a>
         </div>
         <h3 style={{ margin: 20 }}>
-          I’m a results-driven software engineer with over 9 years of proven
-          expertise in developing cutting-edge mobile and web applications. I’m
-          also a MIT graduate with a Post-graduate Degree in Professional
-          Coding: Full Stack Development, achieving a remarkable 98% final score
-          and a 4.0 GPA. Specialized in leveraging advanced technologies,
-          including:
+          I’m a results-driven software engineer with over 9 years of experience
+          in designing and building innovative mobile and web applications. I'm
+          also an MIT graduate with a Professional Certificate in Coding: Full
+          Stack Development with MERN, I specialize in leveraging advanced
+          technologies, including:
           <span style={{ color: '#4879B2' }}>
             {' '}
             React | React Native | Redux | GraphQL | JavaScript | Node | React
