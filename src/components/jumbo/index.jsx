@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa'
 
 const links = {
   resumeUrl:
-    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/My%20Resume%20(2025).pdf?alt=media&token=7058a6e1-7bc0-42be-8596-72f1803fd8fc',
+    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam-Kande-Resume%20-2025.pdf?alt=media&token=ba6a76f7-3c22-4453-b718-2c2e6c4c54d5',
   mitLogo:
     'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/mit-logo.png?alt=media&token=a99ae95a-e31e-4e05-836d-8047050ef97f',
   metaLogo:
