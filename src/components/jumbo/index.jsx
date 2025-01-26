@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa'
 
 const links = {
   resumeUrl:
-    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam-Kande-Resume%20-2025.pdf?alt=media&token=ba6a76f7-3c22-4453-b718-2c2e6c4c54d5',
+    'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/Liam-Kande-Resume%20-2025.pdf?alt=media&token=11a8d332-b622-45e0-819f-e19497daf88e',
   mitLogo:
     'https://firebasestorage.googleapis.com/v0/b/liam-portfolio.appspot.com/o/mit-logo.png?alt=media&token=a99ae95a-e31e-4e05-836d-8047050ef97f',
   metaLogo:
@@ -52,14 +52,14 @@ const Jumbo = () => {
         <h3 style={{ margin: 20 }}>
           I’m a results-driven software engineer experienced in designing and
           building innovative mobile and web applications. I'm also an MIT
-          graduate with a Professional Certificate in Coding: Full Stack
-          Development, I specialize in leveraging advanced technologies,
+          graduate with a Postgraduate Professional Certificate in Full Stack Development, I specialize in leveraging
+          advanced technologies,
           including:
           <span style={{ color: '#4879B2' }}>
             {' '}
-            React | React Native | Redux | GraphQL | JavaScript | Node | React
+            React | React Native | NextJS | Redux | GraphQL | JavaScript | Node | React
             Hooks | TypeScript | TensorflowJS | RESTful API | Flexbox | Emotion
-            | CSS3 | HTML5 | ES6/7+ | Machine Learning | LangChain | OpenAI...
+            | CSS3 | HTML5 | ES6/7+ | Machine Learning | LangChain | OpenAI | Vertex AI...
           </span>
         </h3>
       </article>
